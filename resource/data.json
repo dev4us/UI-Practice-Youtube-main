@@ -1,0 +1,692 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "RawByMDDGN-VKFISBeesGw2Neu0",
+  "nextPageToken": "CBQQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7keNuvj43g8HEvBXmS3t9iqGFco",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W_at_jKOCMw"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-17T03:00:04Z",
+        "channelId": "UCyDZ65ZwrCD3sDYyrAGV66g",
+        "title": "아기고양이와 놀고 싶었던 개냥이 꾸꾸의 귀여운 합사 이야기",
+        "description": "구독과 좋아요는 냥이들과 저에게 큰 힘이 됩니다! 감사합니다☺️ 인스타그램 : http://www.instagram.com/xoxo_neko_ — Track : 너한입 나한입 Music by / Music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W_at_jKOCMw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W_at_jKOCMw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W_at_jKOCMw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "냥큼한 친구들 Sweet cats",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-17T03:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Am8Zd6cJr4Qp68Aps0BlHh4e9Ns",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QdxIVi10xu8"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-16T21:54:43Z",
+        "channelId": "UCRfhKf6ea4Umh_-6OFOUbmg",
+        "title": "실외기 아기고양이 구조후 형제 3마리를 또 버렸네요~!!!",
+        "description": "부타님과 아이들님, 감사합니다님, 나하나_한개씨님, 강현지님 계좌후원 정말 감사드립니다 고맙습니다 아이들은 다행히 금방 입양을 갑니다 대오를 입양해주신분, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QdxIVi10xu8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QdxIVi10xu8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QdxIVi10xu8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "김부타야옹",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-16T21:54:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vylcQkoH2RE5roibKGeJmlurNSs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OQxBs_s23jg"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-15T13:20:55Z",
+        "channelId": "UCmyFB-ySHaEG2W31RYLwROA",
+        "title": "부르면 네! 하고 달려오는 아기고양이 모음",
+        "description": "부르면 네! 하고 달려오는 아기고양이 모음 -출처- Music provided by 브금대통령 Track : 사뿐사뿐 나들이 - https://youtu.be/bFANkXSQwJg Track : 맛있다 달고나 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OQxBs_s23jg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OQxBs_s23jg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OQxBs_s23jg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "모카라떼베리MochaLatteBerry",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-15T13:20:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MSl93cWr0oJHk5PN4lOaiohrOLk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yskdUU5DA48"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-17T03:15:00Z",
+        "channelId": "UCUw1C3Jn6RTS9pR899ufATQ",
+        "title": "물방울이 신기한 고양이들",
+        "description": "귀여운 고양이 코비와 베리는 물방울이 신기해요. 매일, 집사를 따라와서 물을 바꾸는 걸 지켜본답니다. 이 사랑스러운 고양이들 좀 보세요 #고양이 #cat #kitten ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yskdUU5DA48/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yskdUU5DA48/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yskdUU5DA48/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "그루밍데이 고양이cat vlog",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-17T03:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nT83hABO6N6F_4XOSPwFZr1_qmU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "moFB-j5iY2E"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-11T12:03:39Z",
+        "channelId": "UCOp66Vup07X0YziXaaxqs2A",
+        "title": "얼음 속 잉어를 노리는 고양이",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/moFB-j5iY2E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/moFB-j5iY2E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/moFB-j5iY2E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "haha ha",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-11T12:03:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ii_T1Kdt0BUPCGJggQqDyZ8HtXM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jANE8lpoj2c"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-15T13:49:12Z",
+        "channelId": "UC9cH5HQBojNzPCaTLovivbw",
+        "title": "[vlog] #먼치킨 #새끼고양이와 #포메라니안 강아지 같이 키우기 - 합사 첫날부터 친해지기까지",
+        "description": "저희 집 새 식구가 된 먼치킨 새끼고양이 '소설이'와 7개월된 포메라니안 강아지 '소운이' 같이 키우기를 위해서 합사 첫날부터 7일간의 기록입니다 :) [코멘트로 묻기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jANE8lpoj2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jANE8lpoj2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jANE8lpoj2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KiSH-Log 키쉬의 브이로그",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-15T13:49:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G-2aiMUBDFwlQ1-NdirYAokEJPk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yFvkHyErG7w"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-11T23:00:16Z",
+        "channelId": "UC22go5LdQEw-iDuxFb4C0hw",
+        "title": "이제 한 살된 울집 고양이가 까까줘라 라고 말하더니 피아노까지 치는데.. 냥재학교 보내야하나요ㅣCat Actually ＂Talks＂ To Give Her Treats?! *LIT*",
+        "description": "고양이는 똑똑하다는 걸 증명했던 고양이 쫀떡이! 유혹의 간식앞에 말도 트이더니 피아노까지 치는거 실화냐ㅋㅋ 이전이야기 ↓↓↓ https://youtu.be/gsGq_311Mwg ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yFvkHyErG7w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yFvkHyErG7w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yFvkHyErG7w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS TV동물농장x애니멀봐",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-11T23:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7JteI6z1RGUGpKbEy7yJ5B7CZAg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zgRibPzzfsk"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-23T12:00:19Z",
+        "channelId": "UCvv_j41pi8NO42SS-hqvvOA",
+        "title": "아침 6시에 새끼 고양이가 집사를 깨우는 방법",
+        "description": "하루미루 #브리티쉬숏헤어 #골골송 #꾹꾹이 #안일어난다고승질을! 미루는 하루처럼 집사가 일어날때까지 가만히 기다리지 않아요. 아침마다 골골송을 부르면서 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zgRibPzzfsk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zgRibPzzfsk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zgRibPzzfsk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "하루미루HaruMiru Cat",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-23T12:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Qn1oLsK49aDQO4mxsQ0nbI2Hg1E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "grGRgksmCo4"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-16T03:00:05Z",
+        "channelId": "UCmLiSrat4HW2k07ahKEJo4w",
+        "title": "수건도 먹으려고 하는 고양이가 있어요!",
+        "description": "루루가 수건도 먹는 건 줄 알고 킁킁대는 모습이 너무 귀여웠어요! 그리고 나나의 턱드름도 케어해 줬어요!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/grGRgksmCo4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/grGRgksmCo4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/grGRgksmCo4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "크림히어로즈",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-16T03:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tTCkjZeIf9kRZtqIGnckVu8mpMs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yGTsaXmdPjw"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-07T23:00:10Z",
+        "channelId": "UC22go5LdQEw-iDuxFb4C0hw",
+        "title": "고양이 말숙인데요. 어제 라면맛 츄르 먹고 잤더니 좀 부었네요ㅣThe Identity of A Square Cat LOL",
+        "description": "네모 고양이, 강호동냥이로 유명한 고양이 말숙이를 직접 만나보았습니다. #집에서함께애니멀봐 #이시대최고귀요미는뭐다 #털많은귀요미다 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yGTsaXmdPjw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yGTsaXmdPjw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yGTsaXmdPjw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SBS TV동물농장x애니멀봐",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-07T23:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LMl1guiKB4wIh2s0KBIn4vadqdo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uhxjWhOvioE"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-15T03:00:15Z",
+        "channelId": "UCa2LU4aoi3Nr1cYLMnMFONw",
+        "title": "편의점 샛별이..아 아니 편의점 고양이 | 고양이산책",
+        "description": "굿즈구매는 요기서 ▷ http://catoutdoor.shop #고양이산책 #구멍 #고양이 #cat #아기고양이 #새끼고양이 #Catoutdoor.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uhxjWhOvioE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uhxjWhOvioE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uhxjWhOvioE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "고양이산책",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-15T03:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RFI-x5EiLXNns7l8z87pg73D2gw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pVb4xYJ2bgQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-14T03:00:07Z",
+        "channelId": "UCkuA_gDjISfGgbdp02BUwyQ",
+        "title": "아기 고양이가 루루 꼬리를 공격했어요!",
+        "description": "루루가 아기 고양이들과 많이 친해졌어요. 그래도 간식은 양보할 수 없나 봐요. * 똥고양이 티셔츠 https://marpple.shop/kr/kittisaurus * 크집사 구독하기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pVb4xYJ2bgQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pVb4xYJ2bgQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pVb4xYJ2bgQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "크집사",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-14T03:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_O2ad_q2WH9Ij_4epJHQJ1bUtKU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PexkNc9QK2c"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-10T11:52:14Z",
+        "channelId": "UC-LM3vu8V1vMBz-CWzydeng",
+        "title": "깡통에 머리 낀 고양이 구조해주자 반응",
+        "description": "\"고양이 한 마리가 깡통에 끼였어요\" 제보를 받은 타키. 곧바로 현장으로 달려간다. 이어 고양이 구조 작업을 실시한다. 하지만 야생 고양이 틴틴은 몹시 화가 난 모습 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PexkNc9QK2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PexkNc9QK2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PexkNc9QK2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "포크포크",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-10T11:52:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A_DpMJD9Ek0rKdCYp_t3tg45TV0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rKh7LMjBz6g"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-02T09:29:22Z",
+        "channelId": "UCeqThVhH1zpHDd59_FP0Pag",
+        "title": "고양이 절대 키우지 마세요 (입양 전 준비, 파양하는 이유)",
+        "description": "오늘은 고양이를 입양하시려고 준비중이신 분들이 모두 행복하셨음 하는 마음에서 영상을 만들어봤어요! 백두(남) : 첫째. 백두산처럼 크고 튼튼하게 자라다오. 2019 9 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rKh7LMjBz6g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rKh7LMjBz6g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rKh7LMjBz6g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "금수강산ANIMALWORLD",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-02T09:29:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Zzyuv9IhasHoEq8jsrsY7wPFnfY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Iq037i_c0lc"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-04T08:00:04Z",
+        "channelId": "UCLmeWUramUY8YAQ6A40Ionw",
+        "title": "태어난 김에 사는 고양이ㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+        "description": "instagram @muuuuuuji 무지 (muji) - 생일 : 2017.06.29 - 성별 : 남 (male) - 종 : 스코티쉬 폴드 (scottish fold) 막지 (makji) - 생일 : 2019.02.04 - 성별 : 남 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iq037i_c0lc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iq037i_c0lc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iq037i_c0lc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "무지막지한 막무家네",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-04T08:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K_6dVBIKQPCnz1I2_Al7NQrFkvE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4clX1Pb3o-4"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-05T03:00:02Z",
+        "channelId": "UCkuA_gDjISfGgbdp02BUwyQ",
+        "title": "루루가 아기 고양이를 가르치고 있어요",
+        "description": "오늘은 루루가 아기 고양이에게 장난감을 가지고 노는 방법을 가르쳐줬어요. 아기 고양이도 루루처럼 용맹한 고양이가 될 것 같아요. * 똥고양이 티셔츠 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4clX1Pb3o-4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4clX1Pb3o-4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4clX1Pb3o-4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "크집사",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-05T03:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9iqWxeJ47Fgw0BZKqJmAHSO-dCw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Xr-SxdUL4AE"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-09T04:00:25Z",
+        "channelId": "UCUw1C3Jn6RTS9pR899ufATQ",
+        "title": "새끼고양이가 장난감에 반응이 없다면",
+        "description": "새끼고양이가 장난감에 반응이 없다면, 고양이가 더 큰 후에 장난감을 다시 꺼내 봅시다. 코비와 베리가 새끼고양이였을때 비싸게 사서 대 실패한 장난감이 있어요.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xr-SxdUL4AE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xr-SxdUL4AE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xr-SxdUL4AE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "그루밍데이 고양이cat vlog",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-09T04:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p2navyOao2shV24kuoZUhdC5jok",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nLs2JGfqiOw"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-08T08:02:14Z",
+        "channelId": "UCyc_LKrPkD56emyTrPu4KXA",
+        "title": "고양이 행복하다면 야옹해! 야옹야옹야옹야옹야옹♥",
+        "description": "자냐, 토오끼, 애교, 임시보호 중인 보라는 행복하다고 야옹야옹하지만, 밖에는 힘든 고양이들도 많죠. 세계 고양이의 날을 맞이하여 냥이들에게 조금이나마 도움이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nLs2JGfqiOw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nLs2JGfqiOw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nLs2JGfqiOw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "냥꼬리",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-08T08:02:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YphvFtMhfmrF34SdIJVnAKZjzG8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NN0bbuOgY3s"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-13T13:24:30Z",
+        "channelId": "UC29-IlHm6kbDB1ox8GthODw",
+        "title": "알다가도 모를 고양이 행동!!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NN0bbuOgY3s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NN0bbuOgY3s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NN0bbuOgY3s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "매탈남",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-13T13:24:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JIqZZPZMOAbQjTKEeyp7GhC3Ics",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_0jO674qzTs"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-14T13:33:51Z",
+        "channelId": "UCLsj_Re3SxtkbZfX_ypY1eQ",
+        "title": "고양이가 운동 못하게 해요😟😾",
+        "description": "오랜만에 운동하려고 하는데 라온이가 싫다고 하네요. 다이어트 실패! 아싸!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_0jO674qzTs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_0jO674qzTs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_0jO674qzTs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "수리노을SuriNoel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-14T13:33:51Z"
+      }
+    }
+  ]
+}
